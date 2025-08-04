@@ -62,7 +62,7 @@ mv $env:LOCALAPPDATA\nvim-data $env:LOCALAPPDATA\nvim-data.bak
 ### 6. Install TopG Vim
 
 ```powershell
-git clone https://github.com/LazyVim/starter $env:LOCALAPPDATA\nvim
+git clone https://github.com/Pkson13/TopG_Vim.git $env:LOCALAPPDATA\nvim
 ```
 
 ### 7. Start Neovim
