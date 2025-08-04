@@ -51,3 +51,4 @@ require("lazy").setup({
     },
   },
 })
+-- require("nvim-treesitter.install").compilers = {}
