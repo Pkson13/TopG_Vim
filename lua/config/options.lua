@@ -4,3 +4,6 @@
 --vim.opt.number = false
 vim.opt.ruler = true
 -- vim.o.background = "light"
+vim.api.nvim_create_user_command("SonCmd", function()
+  print("Hello from Lua!")
+end, {})
